@@ -4,7 +4,7 @@
 
 This branch represents the most stable working version of the repository.
 
-:warning: You should never commit directly to `main`. :warning:
+:warning: You should never commit directly to `main`. See below. :warning:
 
 ## Creating a new feature branch
 
@@ -28,3 +28,10 @@ and push it to the remote :
 git push
 ```
 
+You can then open a **Pull Request (PR)**.
+
+:warning: Don't merge it to `main` without approval. :warning:
+
+I will try to add this restriction to our workflow later, but for now,
+please, **DON'T merge it to main without approval :)**.
+.
