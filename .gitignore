@@ -1,0 +1,13 @@
+# Post compile stuff (C++)
+
+*.o
+*.so
+
+# Backup files (Vim)
+
+*.sw[o-z]
+
+# Data files
+
+*.dat
+*.root
